@@ -6,7 +6,7 @@
 
 ## Description
 
-This lesson is intended for the practice of blocking and inline elements as we begin writing code.
+This page is intended to use new blocking and inline skills to present my feline companion.
 
 ## Setup
 
